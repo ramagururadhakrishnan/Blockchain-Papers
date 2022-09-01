@@ -3,7 +3,7 @@
 
 | Paper Title (with link) | Publisher | Publication Date | 
 |-------------------------|-----------|:----------------:|
-| [A Survey of Smart Contract Formal Specification and Verification](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/A_Survey_of_Smart_Contract_Formal_Specification_and_Verification.pdf) | ![](https://img.shields.io/badge/-ACM-blue) Computing Surveys | Sep 2022 |
+| [A Survey of Smart Contract Formal Specification and Verification](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/A_Survey_of_Smart_Contract_Formal_Specification_and_Verification.pdf) | ![](https://img.shields.io/badge/-ACM-blue) Computing Surveys | Sep 2021 |
 | ![](https://img.shields.io/badge/-PhD-darkblue) [Formal Methods for Secure Bitcoin Smart Contracts](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/PhD_Formal_Methods_for_Secure_Bitcoin.pdf) | Universita degli Studi di Cagliari | Apr 2021 |
 | ![](https://img.shields.io/badge/Support-Interchain_Foundation-purple) [Tendermint Blockchain Synchronization: Formal Specification and Model Checking](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Tendermint_Blockchain_Synchronization_Formal_Specification_and_Model_Checking.pdf) | ![](https://img.shields.io/badge/-Springer-blue) International Symposium on Leveraging Applications of Formal Methods | Oct 2020 |
 | [Blockchain smart contracts formalization: Approaches and challenges to address vulnerabilities](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Blockchain_smart_contracts_formalization_Approaches_and_challenges_to_address_vulnerabilities.pdf) | ![](https://img.shields.io/badge/-Elseiver-blue) Computers & Security | Oct 2020 |
