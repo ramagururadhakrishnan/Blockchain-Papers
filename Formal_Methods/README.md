@@ -1,28 +1,34 @@
-# Blockchain Formal Methods
+# Formal Methods in Blockchain Technology
+![](https://img.shields.io/badge/-Ph.D.-gold) 
+
+## Generic 
+
+|     Type     |       Paper Title (with link)       |     Publisher       |     Publication Date     | 
+|:-------------|--------------------------------------|:--------------------|:------------------------:|
+| Theorem Proving | ![](https://img.shields.io/badge/-PG-darkblue) [HaskHOL: A Haskell Hosted Domain Specific Language for Higher-Order Logic Theorem Proving](https://kuscholarworks.ku.edu/entities/publication/ebb76ee7-f3c8-4288-a1f1-000ac1d7abd1) <br/> <br/> ![](https://img.shields.io/badge/-Publication-darkblue)  [HaskHOL: A Haskell Hosted Domain Specific Language Representation of HOL Light](https://www.researchgate.net/profile/Perry-Alexander/publication/228919918_HaskHOL_A_Haskell_Hosted_Domain_Specific_Language_Representation_of_HOL_Light/links/00b4952af7d748e235000000/HaskHOL-A-Haskell-Hosted-Domain-Specific-Language-Representation-of-HOL-Light.pdf) | University of Kansas | Jan 2011 |
+
+## Smart Contracts
+
+### Bitcoin
+
+|     Type     |       Paper Title (with link)       |     Publisher      |     Publication Date     | 
+|:-------------|-------------------------------------|:--------------------|:------------------------:|
+|  Domain Specific Language <br/> Process Algebra | ![](https://img.shields.io/badge/-Ph.D.-darkblue) [Formal Methods for Secure Bitcoin Smart Contracts](https://tesidottorato.depositolegale.it/bitstream/20.500.14242/70735/1/tesi%20di%20dottorato_stefano%20lande.pdf) | Universita degli Studi di Cagliari | Apr 2021 | 
+| Formal Verification | [Validation of Decentralised Smart Contracts Through Game Theory and Formal Methods](https://arpi.unipi.it/bitstream/11568/764349/5/bHalo_Degano2015.pdf) | ![](https://img.shields.io/badge/-Springer-blue) Programming Languages with Applications to Biology and Security | Nov 2015 | 
+
+### Ethereum 
+
+|     Type     |       Paper Title (with link)       |     Publisher      |     Publication Date     | 
+|:-------------|-------------------------------------|:--------------------|:------------------------:|
+|   | [Formal Methods for the Security Analysis of Smart Contracts](https://ieeexplore.ieee.org/abstract/document/9617687) | ![](https://img.shields.io/badge/-IEEE-blue) 2021 Formal Methods in Computer Aided Design (FMCAD) | Nov 2021 | 
+| Formal Specification <br/> Legal Contracts | ![](https://img.shields.io/badge/-PG-darkblue) [Smart Contracts: from Formal Specification to Blockchain Code](https://ruor.uottawa.ca/server/api/core/bitstreams/730b93ae-6793-402e-a0c5-8a132defcb4d/content) | University of Ottawa | 2020 | 
+| Formal Verification  | [Survey of Formal Verification Methods for Smart Contracts on Blockchain](https://ieeexplore.ieee.org/document/8763832) | ![](https://img.shields.io/badge/-IEEE-blue) 2019 10th IFIP International Conference on New Technologies, Mobility and Security (NTMS) | Jul 2019 | 
+| Languages | [Smart Contracts and Opportunities for Formal Methods](https://par.nsf.gov/servlets/purl/10098553) | ![](https://img.shields.io/badge/-Springer-blue) ISoLA: International Symposium on Leveraging Applications of Formal Methods | Oct 2018 | 
+
+### Hyperledger
+|     Type     |       Paper Title (with link)       |     Publisher      |     Publication Date     | 
+|:-------------|-------------------------------------|:--------------------|:------------------------:|
+| Formal Specification <br/> Formal Verification | [Formal Specification and Verification of Hyperledger Fabric Chaincode]() | | 2018 | 
 
 
-| Paper Title (with link) | Publisher | Publication Date | 
-|-------------------------|-----------|:----------------:|
-| [A Survey of Smart Contract Formal Specification and Verification](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/A_Survey_of_Smart_Contract_Formal_Specification_and_Verification.pdf) | ![](https://img.shields.io/badge/-ACM-blue) Computing Surveys | Sep 2021 |
-| ![](https://img.shields.io/badge/-PhD-darkblue) [Formal Methods for Secure Bitcoin Smart Contracts](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/PhD_Formal_Methods_for_Secure_Bitcoin.pdf) | Universita degli Studi di Cagliari | Apr 2021 |
-| ![](https://img.shields.io/badge/Support-Interchain_Foundation-purple) [Tendermint Blockchain Synchronization: Formal Specification and Model Checking](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Tendermint_Blockchain_Synchronization_Formal_Specification_and_Model_Checking.pdf) | ![](https://img.shields.io/badge/-Springer-blue) International Symposium on Leveraging Applications of Formal Methods | Oct 2020 |
-| [Blockchain smart contracts formalization: Approaches and challenges to address vulnerabilities](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Blockchain_smart_contracts_formalization_Approaches_and_challenges_to_address_vulnerabilities.pdf) | ![](https://img.shields.io/badge/-Elseiver-blue) Computers & Security | Oct 2020 |
-| [A Formal Verification Framework for Security Issues of Blockchain Smart Contracts](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/A_Formal_Verification_Framework_for_Security_Issues_of_Blockchain_Smart_Contracts.pdf) | ![](https://img.shields.io/badge/-MDPI-blue) Electronics | Feb 2020 |
-| [HAL Formal Verification and Model-Based Testing Blockchain Based Healthcare](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/HAL_Formal_Verification_and_Model-Based_Testing_Blockchain_Based_Healthcare.pdf) | HAL | 2020 |
-| ![](https://img.shields.io/badge/-PhD-darkblue) [Thesis Effective Domain-Specific Formal Verification](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/PhD_Thesis_Effective_Domain-Specific_Formal_Verification.pdf) | Budapest University of Technology and Economics | 2020 |
-|  ![](https://img.shields.io/badge/Support-Interchain_Foundation-purple) [Formal Specification and Model Checking of the Tendermint Blockchain Synchronization Protocol](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Formal_Specification_and_Model_Checking_of_the_Tendermint_Blockchain_Synchronization_Protocol.pdf) | Proceedings of the Second Workshop on Formal Methods for Blockchains | 2020 |
-| [Proceedings Formal Methods for Blockchains](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Proceedings_Formal_Methods_for_Blockchains.pdf) | Proceedings of the First Workshop on Formal Methods for Blockchains | 2019 |
-| [Formal Specification and Verification of Smart Contracts in Azure Blockchain](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Formal_Specification_and_Verification_of_Smart_Contracts_for_Azure_Blockchain.pdf) | - | 2019 |
-| [Formal Modeling and Verification of a Federated Byzantine Agreement Algorithm for Blockchain Platforms](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Formal_Modeling_and_Verification_of_a_Federated_Byzantine_Agreement_Algorithm_for_Blockchain_Platforms.pdf) | ![](https://img.shields.io/badge/-IEEE-blue) | 2019 |
-| [Formal Verification of Blockchain Smart Contract based on Colored Petri Net Models](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Formal_Verification_of_Blockchain_Smart_Contract_Based_on_Colored_Petri_Net_Models.pdf) | ![](https://img.shields.io/badge/-IEEE-blue) 43rd Annual Computer Software and Applications Conference (COMPSAC) | 2019 |
-| [A Blockchain Based Proposal for Protecting Healthcare Systems through Formal Methods](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/A_Blockchain_Based_Proposal_for_Protecting_Healthcare_Systems_through_Formal_Methods.pdf) | Procedia Computer Science - Elseiver, International Conference on Knowledge-Based and Intelligent Information & Engineering Systems | 2019 |
-| [Survey of Formal Verification Methods for Smart Contracts on Blockchain](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Survey_of_Formal_Verification_Methods_for_Smart_Contracts_on_Blockchain.pdf) | ![](https://img.shields.io/badge/-IEEE-blue) | 2019 |
-| [Smart Contracts and Opportunities for Formal Methods](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Smart_Contracts_and_Opportunities_for_Formal_Methods.pdf) | ![](https://img.shields.io/badge/-Springer-blue) International Symposium on Leveraging Applications of Formal Methods | Oct 2018 |
-| [Formal Design, Implementation and Verification of Blockchain Languages](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Formal_Design_Implementation_and_Verification_of_Blockchain_Languages.pdf) | Schloss Dagstuhl- Leibniz-Zentrum fur Informatik GmbH, Dagstuhl Publishing | Jul 2018 |
-| [Formal Modeling and Verification of Blockchain System](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Formal_Modeling_and_Verification_of_Blockchain_System.pdf) | ![](https://img.shields.io/badge/-ACM-blue) ICCMS | Jan 2018 |
-| [Formal verification of smart contracts based on users and blockchain behaviors models](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Formal_Verification_of_Smart_Contracts_Based_on_Users_and_Blockchain_Behaviors_Models.pdf) | ![](https://img.shields.io/badge/-IEEE-blue) | 2018 |
-| [A Temporal Blockchain: A Formal Analysis](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/A_Temporal_Blockchain_A_Formal_Analysis.pdf) | ![](https://img.shields.io/badge/-IEEE-blue) International Conference on Collaboration Technologies and Systems | 2016 |
-| [Validation of Decentralised Smart Contracts Through Game Theory and Formal Methods](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Validation_of_Decentralised_Smart_Contracts_Through_Game_Theory_and_Formal_Methods.pdf) | ![](https://img.shields.io/badge/-Springer-blue) Programming Languages with Applications to Biology and Security | 2015 |
-| [How formal analysis and verification add security to blockchain-based systems](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/How_formal_analysis_and_verification_add_security_to_blockchain-based_systems.pdf) | ![](https://img.shields.io/badge/-IEEE-blue) FMCAD | - |
-| [Probabilistic Formal Methods Applied to Blockchain’s Consensus Protocol](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods/Probabilistic_Formal_Methods_Applied_to_Blockchain’s_Consensus_Protocol.pdf) | - | - |
-
+## Consensus Algorithm
