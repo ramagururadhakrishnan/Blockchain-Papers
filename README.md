@@ -9,6 +9,7 @@ Repository for Blockchain Research Papers.
 - [Forensics](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Forensics)
 - [Vulnerability Assessment](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Vulnerability)
 - [Formal Methods](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Formal_Methods)
+- [Algorithmic Mechanism Design](https://ramagururadhakrishnan.github.io/Blockchain-Papers/AMD)
 - [Post Quantum](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Post_Quantum)
 - Applications
   - [Governance](https://ramagururadhakrishnan.github.io/Blockchain-Papers/Governance)
