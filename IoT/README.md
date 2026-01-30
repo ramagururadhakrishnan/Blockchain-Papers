@@ -1,12 +1,10 @@
-\# Internet of Things (IoT)
+# Internet of Things (IoT)
 
-\## Generic 
-
-
+## Generic 
 
 |     Type     |       Paper Title (with link)       |     Publisher       |     Publication Date     | 
-
 |:-------------|--------------------------------------|:--------------------|:------------------------:|
+
 
 
 
